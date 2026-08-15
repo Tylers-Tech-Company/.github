@@ -1,50 +1,29 @@
-## Hi there 👋
+# Tyler’s Tech Company
 
-<!--# Tyler’s Tech Company
+Personal, practical technology support for homes, professionals, galleries, and small businesses in Greater Boston.
 
-Boutique IT concierge and managed services provider based in the Boston area.
+We design, secure, document, and maintain technology that people can rely on—from everyday support and Microsoft 365 administration to networks, backups, and tailored business systems.
 
-We design, secure, and maintain modern IT environments for homes and small businesses — with a focus on reliability, clarity, and long-term maintainability.
+## What we work on
 
----
+- Managed IT and responsive technical support
+- Microsoft 365, identity, access, and device management
+- UniFi networking, Wi-Fi, segmentation, and remote connectivity
+- Backup, monitoring, recovery planning, and security hardening
+- Technology planning and custom operational tools
 
-## What We Do
+Our approach is calm and direct: recommend what fits, document it clearly, and support it for the long term.
 
-- Network design (UniFi, segmentation, Wi-Fi optimization)
-- Microsoft 365 / Entra / identity & device management
-- Backup, monitoring, and disaster recovery
-- Smart home + infrastructure integration
-- Security hardening (MFA, least privilege, endpoint protection)
+## Public resources
 
----
+- [Company website](https://tylerstech.company)
+- [Service status](https://tylerstech.services)
 
-## Approach
-
-We don’t oversell.  
-We design systems that make sense, document them properly, and support them long-term.
-
----
-
-## Internal Repositories
-
-Some repositories are private and used for:
-- client configurations
-- internal tooling
-- SOPs and documentation
-- automation scripts
-
----
+Most operational repositories are private because they contain internal systems or security-sensitive implementation details. Public repositories are documented individually and should not be treated as support commitments unless their README says otherwise.
 
 ## Contact
 
-🌐 https://tylerstechcompany.com  
-📧 support@tylerstechcompany.com
+- [support@tylerstech.company](mailto:support@tylerstech.company)
+- [tylerstech.company](https://tylerstech.company)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Copyright © Tyler’s Tech Company Inc. All rights reserved.
